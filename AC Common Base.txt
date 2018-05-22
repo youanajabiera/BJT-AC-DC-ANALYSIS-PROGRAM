@@ -1,0 +1,23 @@
+		  
+		     x  	       o VCC 
+		    xxx	   	       x x x || x o
+		   xxxxx               x          -
+		     x                 x
+		     x                 x   
+		     x                xxx
+		     x	              xxx RC     Vo
+		     x                xxx
+		     x	               x
+		     x		       x  C       +
+		     x	   B          xxx x x x x o
+		     x x x x x o x x x x  Betha
+				      xxx x x x x o
+			               x          +
+				     E o
+				       x
+				      xxx        Vi
+				      xxx RE
+				      xxx
+				       x          -
+				       x x x || x o	
+				       o -VEE

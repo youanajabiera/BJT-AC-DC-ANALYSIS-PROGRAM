@@ -1,0 +1,22 @@
+GUIDES
+
+cara kerja dari program "BJT AC & DC ANALYSIS" ini adalah
+1. Masukkan password
+2. Pilih menu yang akan dijalankan
+3. Jika anda ingin menghitung BJT AC dan DC, pilih [1]
+4. Jika anda ingin mengetahui teori dari BJT AC dan AC, pilih [2]
+5. Jika anda ingin mengetahui cara memakai program ini, pilih [3]
+6. Jika anda ingin program ini selesai, pilih [4]
+
+=================================================================
+
+Saat anda memilih menu [1], terdapat 2 pilihan, yaitu :
+1. Pilih [1], jika anda ingin menghitung BJT DC
+2. Pilih [2], jika anda ingin menghitung BJT AC
+
+=================================================================
+
+Saat anda memilih BJT AC dan DC, terdapat 3 pilihan, yaitu :
+1. Pilih [1], jika anda ingin menghitung Common Emitter
+2. Pilih [2], jika anda ingin menghitung Common Collector
+3. Pilih [3], jika anda ingin menghitung Common Base

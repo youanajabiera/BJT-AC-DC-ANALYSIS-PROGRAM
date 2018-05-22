@@ -1,0 +1,43 @@
+FEATURES
+
+Berikut merupakan fitur-fitur yang disediakan program
+
+[1] BJT DC 
+di dalam BJT DC, kita dapat menghitung tiga macam konfigurasi analisis, diantaranya adalah :
+
+a. Common Base : 
+Konfigurasi ini merupakan konfigurasi yang unik dan terkenal karena dalam domain AC, konfigurasi ini mempunyai impedansi masukan yang sangat rendah namun impedansi keluarannya tinggi dan memiliki penguatan yang baik. 
+-> Variabel yang harus diketahui diantaranya adalah VEE,VBE, RE, RC, RE, VCC, VCB, dan Betha
+
+
+b. Common Emitter : 
+Common Emitter merupakan konfigurasi Transistor DC yang paling sederhana. 
+-> Variabel yang harus diketahui untuk menganalisis konfigurasi ini diantaranya adalah VCC, VBE, RB, IE, RC, dan Betha
+
+
+c. Common Collector : 
+Pada konfigurasi ini, output didapat dari terminal emitter. Terdapat resistor pada kaki emitter. 
+-> Variabel yang harus diketahui diantaranya adalah VEE, VBE, RB, RE, IE, dan Betha
+
+[2] BJT AC
+di dalam BJT AC, kita dapat menghitung tiga macam konfigurasi analisis, diantaranya adalah :
+
+a. Common Base : Karakteristik umum dari masukan dan keluaran rangkaian akan menghasilkan rangkaian ekivalen yang sifatnya mendekati divais aslinya. Penggunaan dioda merepresentasikan hubungan antara base dan emitter. Pada common base, arah arus dari collector di output rangkaian akan berlawanan arah dengan yang semestinya. 
+-> Untuk mencari ZI, diperlukan variabel RE dan re. 
+-> Untuk mencari ZO, variabel yang digunakan adalah RC. 
+-> Untuk mencari AV, digunakan RC dan re. 
+-> Sedangkan AI nya mendekati -1
+
+
+b. Common Emitter : Pada Common Emitter, terdapat dua buah kapasitor yang digunakan sebagai Coupling Capacitors untuk memisahkan sinyal AC dari tegangan DC Bias. 
+-> Untuk mencari ZI, variabel yang digunakan adalah RB, re, dan betha. 
+-> Untuk mencari ZO, variabel yang digunakan adalah RC dan ro. 
+-> Untuk mencari AV, variabel yang digunakan adalah RC, ro, dan re. 
+-> Sedangkan untuk mencari AI variabel yang digunakan adalah betha, RB, ro, RC, RB, dan re
+
+
+c. Common Collector : Output pada rangkaian ini diambil dari terminal emitter yang ada di transistor. 
+-> Untuk mencari ZI, variabel yang digunakan diantaranya adalah RB dan ZB. 
+-> Untuk mencari ZO, variabel yang digunakan diantaranya adalah RE dan re. 
+-> Untuk mencari AV, variabel yang digunakan diantaranya adalah RE dan re. 
+-> Sedangkan untuk mencari AI variabel yang digunakan adalah betha, RB dan ZB
